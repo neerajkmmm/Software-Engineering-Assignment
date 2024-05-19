@@ -10,7 +10,6 @@ public static void main(String[]args){
 	       int sel=ob.nextInt();
 		   
 	if(sel>=1&&sel<=4){	   
-		   // input values
     System.out.print("Enter 1st value ");
 	       int a=ob.nextInt();
     System.out.print("Enter 2nd value ");
